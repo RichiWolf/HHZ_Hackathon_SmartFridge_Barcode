@@ -1,3 +1,5 @@
+url: "https://richiwolf.github.io/HHZ_Hackathon_SmartFridge_Barcode/"
+baseurl: ""
 theme: jekyll-theme-merlot
 title: HHZ Smartfridge [T2]
 navbar-links:
