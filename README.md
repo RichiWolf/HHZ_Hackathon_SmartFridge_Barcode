@@ -1,4 +1,4 @@
-# HHZ_Heckathon_SmartFridge_Barcode
+# HHZ_Hackathon_SmartFridge_Barcode
 
 Dieses Projekt entstand im Rahmen des zweitägigen Hackathons des Master-Studiengangs "Services Computing" am Herman Hollerith Zentrum in Böblingen. Der Hackathon verfolgt das Ziel, verschiedene "Internet of Things" Ansätze im Bereich "Lernen und Lehren" und "Smart Home" zu testen und einen ersten MVP (Minimum Viable Product) zu erstellen. Als Ergebnis der Projekte soll eine Machbarkeitsstudie der Serviceidee, Einsatzmöglichkeiten sowie eine Konzeptbeschreibung  hervorgehen.
 
