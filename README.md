@@ -1,7 +1,7 @@
 # HHZ_Hackathon_SmartFridge_Barcode
 
-<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki"> 1. Home </a>
-<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/2.-Service-Architektur-nach-Elgar-Fleisch">2. Service Architektur nach Elgar Fleisch</a>
+<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki"> 1. Home </a>  
+<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/2.-Service-Architektur-nach-Elgar-Fleisch">2. Service Architektur nach Elgar Fleisch</a>  
 <a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/3.-Konzepte-und-Einbettung">3. Konzepte und Einbettung</a>
 <a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/4.-Versuche">4. Versuche</a>
 <a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/5.-Design-Prinzipien">5. Design Prinzipien</a>
