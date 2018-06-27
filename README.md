@@ -1,6 +1,15 @@
 # HHZ_Hackathon_SmartFridge_Barcode
 
 <a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki"> 1. Home </a>
+<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/2.-Service-Architektur-nach-Elgar-Fleisch">2. Service Architektur nach Elgar Fleisch</a>
+<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/3.-Konzepte-und-Einbettung">3. Konzepte und Einbettung</a>
+<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/4.-Versuche">4. Versuche</a>
+<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/5.-Design-Prinzipien">5. Design Prinzipien</a>
+<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/6.-Bewertung-des-Gesch%C3%A4ftsmodells">6. Bewertung des Geschäftsmodells</a>
+<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/7.-Ergebnisse-des-Hackathons">7. Ergebnisse des Hackathons</a>
+<a href="https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/wiki/8.-Teammitglieder-und-Organisation">8. Teammitglieder und Organisation</a>
+
+
 
 Dieses Projekt entstand im Rahmen des zweitägigen Hackathons des Master-Studiengangs "Services Computing" am Herman Hollerith Zentrum in Böblingen. Der Hackathon verfolgt das Ziel, verschiedene "Internet of Things" Ansätze im Bereich "Lernen und Lehren" und "Smart Home" zu testen und einen ersten MVP (Minimum Viable Product) zu erstellen. Als Ergebnis der Projekte soll eine Machbarkeitsstudie der Serviceidee, Einsatzmöglichkeiten sowie eine Konzeptbeschreibung  hervorgehen.
 
