@@ -34,3 +34,5 @@ Das von Osterwalder entwickelte Value Proposition Canvas wurde im Rahmen dieses 
 Der im Canvas beschriebene Service ermöglicht dem Nutzer seine Einkäufe mithilfe der automatisch erzeugten Einkaufsliste zu erledigen. Der Kunde spart sich die Zeit eine manuelle Einkaufsliste anzufertigen, vermeidet Fehleinkäufe und kann die Informationen überall über sein Smartphone abrufen.
 
 Das folgende Erklärvideo liefert zusätzliche Informationen über den Nutzen und der Funktionsweise der Serviceidee: [Simple Show](https://videos.mysimpleshow.com/0aCBUDVING)
+
+<a href=https://github.com/RichiWolf/HHZ_Hackathon_SmartFridge_Barcode/blob/master/Hackathon_Pr%C3%A4si.pdf>Hackathon Abschluss Präsentation</a>
